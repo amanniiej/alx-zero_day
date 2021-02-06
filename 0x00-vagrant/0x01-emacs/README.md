@@ -1,0 +1,1 @@
+Major keyboard keys to use emacs
