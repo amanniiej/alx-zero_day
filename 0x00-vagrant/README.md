@@ -1,0 +1,1 @@
+To print the unix system name on your terminal, use the command "uname" and hit enter.
